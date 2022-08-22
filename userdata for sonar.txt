@@ -25,3 +25,4 @@ git clone https://github.com/sathiyajith23/all.git
 cd /usr/local/bin/all
 cp sonarqube.yml /usr/local/bin
 sudo reboot 
+hi
